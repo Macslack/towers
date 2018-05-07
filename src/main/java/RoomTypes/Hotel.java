@@ -24,11 +24,11 @@ public class Hotel {
         return rooms;
     }
 
-    public void removeGuestFromRoom(Room room){
+    public void removeGuestFromRoom(Guest guest, Room room){
 
 
     }
-    public void addGuestToRoom(Room room) {
+    public void addGuestToRoom(Guest guest) {
 
 
     }

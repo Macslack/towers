@@ -26,5 +26,12 @@ public class HotelTest {
     public void canRemoveGuestFromRoom(){
 
         }
+        @Test
+    public void canAddRoomtoHotel(){
 
+        }
+        @Test
+    public void canRemoveRoomFromHotel(){
+
+        }
 }
